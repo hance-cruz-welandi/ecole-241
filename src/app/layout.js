@@ -79,7 +79,7 @@ export default function RootLayout({ children }) {
 
         {children}
         
-          <footer className = "mt-10">
+          <footer className = "mt-10 ">
             <div className="flex justify-between px-6 bg-black py-4">
 			        <div>
  				        <img src="./asset/icons/image.png" className="h-[60px]"/>

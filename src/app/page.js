@@ -78,7 +78,7 @@ export default function Home() {
 					    recherchées sur le marché du travail.
 				    </p>
 			    </div>
-          <div className="flex gap-x-[60px] items-center py-10">
+          <div className="flex gap-x-[60px] justify-center items-center py-10">
 				    <div className="flex gap-x-3">
               <img src="./asset/icons/Capa1.png"/>
               <p className="text-white self-center text-xs">
